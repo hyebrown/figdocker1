@@ -16,4 +16,5 @@ echo "==================================================================="
 echo "            starting docker2"
 echo "==================================================================="
 # start up docker2 which is linked to docker1
+#testing gitflow
 sudo fig run docker2
